@@ -1,4 +1,5 @@
 ## Hi there 👋
+My personal site is https://gentleostrich.github.io/ 😎
 
 <!--
 **GentleOstrich/gentleostrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
